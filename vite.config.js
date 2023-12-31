@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react-swc'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/druv_2024/',
+  base: '/dhruv_2024/',
   plugins: [react()],
 })
